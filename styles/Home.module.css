@@ -1,0 +1,15 @@
+.contain{
+  display: flex;
+  justify-content: center;
+}
+.btn{
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  outline: none;
+  border: none;
+  background-color: blue;
+  color: white;
+  cursor: pointer;
+}
